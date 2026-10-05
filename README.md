@@ -1,7 +1,7 @@
 # 💳 FraudRiskAI
 
 An AI-powered system for detecting and managing financial fraud using explainable logic and data analytics.
-
+Data set consideration:https://archive.ics.uci.edu/dataset/350/defaultofcreditcardclients?utm_source=chatgpt.com
 ## 🔗 Live Demo
 🌐 https://fraud-risk-ai.vercel.app  
 🤖 https://cddgetg-fraud-risk-ai.hf.space  
